@@ -3,7 +3,7 @@
     <v-toolbar  >
       <v-toolbar-title class="headline text-uppercase">
         <span>Test</span>
-        <span class="font-weight-light">PHONEBOOK</span>
+        <span class="font-weight-light">PATIENT-PHONEBOOK</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn

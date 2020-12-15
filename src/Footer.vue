@@ -5,7 +5,7 @@
             <div class=" ml-3">
               Test task
               <v-icon class="red--text">favorite</v-icon>
-              by <a class="" href="https://github.com/kostia7alania" target="_blank">@kostia7alania</a>
+              by <a class="" href="https://github.com/zahedbri" target="_blank">@zahedbri</a>
               &copy; {{ new Date().getFullYear() }}
             </div>
           </v-flex>

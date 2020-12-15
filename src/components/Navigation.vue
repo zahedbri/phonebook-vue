@@ -15,7 +15,7 @@
 
         <v-list-tile avatar tag="div">
           <v-list-tile-avatar>
-            <img src="https://randomuser.me/api/portraits/men/85.jpg">
+            <img src="https://static.s123-cdn-static.com/uploads/2743575/800_5dc0fad5c6127.jpg">
           </v-list-tile-avatar>
 
           <v-list-tile-content>
@@ -66,7 +66,7 @@ export default {
         ],
         mini: false,
         right: null,
-        username: 'Konstantin Bazrov'
+        username: 'ZAHED HOSSAIN'
     }
   },
   computed: {
